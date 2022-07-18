@@ -6,7 +6,7 @@
 
 # Welcome to my Profile!
 
-###Who am I?
+##Who am I?
 
 I started my career as a graphic designer, at a studio called Moxie Sozo, located in Boulder, Colorado. With little knowledge of programming, I knew I needed to keep my skills competitive. With no clear path or compass for directions, I asked my programming friends how can I start to learn programming. After my friend installed HomeBrew, my curiosity swelled. At the beginning, I was a naive child, walking through a forest of text, scrolling through hundreds of stack-overflow questions and listening to poorly made youtube tutorials. Learning to program is possibly the hardest skill I have learned in my life. But here I am, and this my journey.
 
