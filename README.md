@@ -1,8 +1,8 @@
-# Hi, I'm [Connor Smiley](https://www.connorsmiley.com/) 🌺
+# Hi, I'm [Connor Smiley](https://www.connorsmiley.com/) 🍣  🇺🇸
 
-[![Website Badge](https://img.shields.io/badge/-ConnorSmiley.com-EF444F?style=flat&logo=google-chrome&logoColor=white&link=https://www.connorsmiley.com/)](https://www.connorsmiley.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-ConnorSmiley-EF444F?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/connor-smiley/)](https://www.linkedin.com/in/connor-smiley/)
-[![Resume Badge](https://img.shields.io/badge/-resume.pdf-EF444F?style=flat&logo=pinboard&logoColor=white&link=https://.com/r.pdf)](https://.com/r.pdf)
+[![Website Badge](https://img.shields.io/badge/-ConnorSmiley.com-6441a5?style=flat&logo=google-chrome&logoColor=white&link=https://www.connorsmiley.com/)](https://www.connorsmiley.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-ConnorSmiley-6441a5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/connor-smiley/)](https://www.linkedin.com/in/connor-smiley/)
+[![Resume Badge](https://img.shields.io/badge/-resume.pdf-6441a5?style=flat&logo=pinboard&logoColor=white&link=https://.com/r.pdf)](https://.com/r.pdf)
 
 # Welcome to my Profile!
 
