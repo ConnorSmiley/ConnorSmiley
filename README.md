@@ -8,7 +8,7 @@
 
 ### Who am I?
 
-I started my career as a graphic designer, at a studio called Moxie Sozo, located in Boulder, Colorado. With little knowledge of programming, I knew I needed to keep my skills competitive. With no clear path or compass for directions, I asked my programming friends how can I start to learn programming. After my friend installed HomeBrew, my curiosity swelled. At the beginning, I was a naive child, walking through a forest of text, scrolling through hundreds of stack-overflow questions and listening to poorly made youtube tutorials. Learning to program is possibly the hardest skill I have learned in my life. But here I am, and this my journey.
+I started my career as a graphic designer, at a studio called Moxie Sozo, located in Boulder, Colorado. With little knowledge of programming, I knew I needed to keep my skills competitive. Learning front-end web developer has been an eye-opener. Currently, I am testing out I.T. as I enjoy the physical hardware of technology.
 
 [Contact Me](#contact-me)
 
@@ -19,15 +19,15 @@ I'm currently...
 
 - 💻 Building Next.js projects with redux
  
-- 📖 Studying software architecture
+- 📖 Studying Networking / Cyber-security
  
-- ✏️ Trying to build an API to a Postgresql database 
+- ✏️ Building my own home-lab
  
 - 📸 Taking photos in my freetime
  
 - 🛠️ 3D printing with Fusion 360
  
-- 🎥 Youtube tutorials on programming
+- 🎥 Youtube tutorials on programming and I.T.
 
 ## Contact Me
 
