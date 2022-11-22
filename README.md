@@ -17,13 +17,13 @@ I started my career as a graphic designer, at a studio called Moxie Sozo, locate
 
 I'm currently...
 
-- 💻 Building Next.js projects with redux
+- 💻 Building Next.js projects with Redux
  
 - 📖 Studying Networking / Cyber-security
  
-- ✏️ Building my own home-lab
+- ✏️ Building my own Home-Lab with Windows Server. Trying to find free cloud services 
  
-- 📸 Taking photos in my freetime
+- 📸 Photography
  
 - 🛠️ 3D printing with Fusion 360
  
