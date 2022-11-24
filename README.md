@@ -8,7 +8,7 @@
 
 ### Who am I?
 
-I started my career as a graphic designer, at a studio called Moxie Sozo, located in Boulder, Colorado. With little knowledge of programming, I knew I needed to keep my skills competitive. Learning front-end web developer has been an eye-opener. Currently, I am testing out I.T. as I enjoy the physical hardware of technology.
+I started my career as a graphic designer, at a studio called Moxie Sozo, located in Boulder, Colorado. Currently working on a full stack Saas application using Next, TypeScript, AWS and Paypal.
 
 [Contact Me](#contact-me)
 
@@ -17,11 +17,11 @@ I started my career as a graphic designer, at a studio called Moxie Sozo, locate
 
 I'm currently...
 
-- 💻 Building Next.js projects with Redux
+- 💻 Building a Saas app
  
-- 📖 Studying Networking / Cyber-security
+- 📖 Studying Networking, Cyber-security, Databases, User experience
  
-- ✏️ Building my own Home-Lab with Windows Server. Trying to find free cloud services 
+- ✏️ Coding as much as possible
  
 - 📸 Photography
  
