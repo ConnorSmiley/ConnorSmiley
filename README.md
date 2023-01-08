@@ -2,7 +2,7 @@
 
 [![Website Badge](https://img.shields.io/badge/-ConnorSmiley.com-6441a5?style=flat&logo=google-chrome&logoColor=white&link=https://www.connorsmiley.com/)](https://www.connorsmiley.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-ConnorSmiley-6441a5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/connor-smiley/)](https://www.linkedin.com/in/connor-smiley/)
-[![Resume Badge](https://img.shields.io/badge/-resume.pdf-6441a5?style=flat&logo=pinboard&logoColor=white&link=https://.com/r.pdf)](https://drive.google.com/file/d/1wb0Ma7jhGL-k3uXvIKVtJkspKT13SBo5/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/-resume.pdf-6441a5?style=flat&logo=pinboard&logoColor=white&link=https://.com/r.pdf)](https://drive.google.com/file/d/1JHomq6cazof5_gWTOcNGlRN_7nEmRuvQ/view?usp=sharing)
 
 # Welcome to my Profile!
 
