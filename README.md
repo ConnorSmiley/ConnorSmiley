@@ -8,7 +8,7 @@
 
 ### Who am I?
 
-I started my career as a graphic designer, at a studio called Moxie Sozo, located in Boulder, Colorado. Currently working on a full stack Saas application using Next, TypeScript, AWS and Paypal.
+I started as a graphic designer at an internationally known studio, Moxie Sozo, located in Boulder, Colorado. Currently working on a full stack Saas application using Next, TypeScript,Prisma, AWS and Paypal.
 
 [Contact Me](#contact-me)
 
@@ -28,6 +28,8 @@ I'm currently...
 - 🛠️ 3D printing with Fusion 360
  
 - 🎥 Youtube tutorials on programming and I.T.
+
+- 💪🏼🏓🏂🏿⛷🛹🛴 Exercise
 
 ## Contact Me
 
