@@ -22,7 +22,8 @@ I'm currently...
 
 ## ⚙️ GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connorsmiley&layout=compact&theme=vue-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=connorsmiley&layout=compact&theme=vue-dark&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=connorsmiley&show_icons=true&theme=vue-dark&hide=followers,following&cache_seconds=1800" />
 </p>
 
 ## Contact Me
